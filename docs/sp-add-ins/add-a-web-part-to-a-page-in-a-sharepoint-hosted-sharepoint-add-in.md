@@ -44,7 +44,7 @@ In this article you add a Web Part to the default page of the Employee Orientati
     
   ```XML
   <WebPartPages:WebPartZone runat="server" FrameType="TitleBarOnly" 
-      ID="HomePage1" Title="loc:full" />
+      ID="HomePage1" Title="locfull" />
 
   ```
 
